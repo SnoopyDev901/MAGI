@@ -1,6 +1,7 @@
 # MAGI
 
 MAGI system is a cluster of three AI supercomputers that manage and support all task performed by the NERV organization from their Tokyo-3 headquarter.
+This version is adapted to work on GPT 3.5 Turbo. Credit for original to Tomasz Rewak.
 
 Originally designed by Dr. Naoko Akagi, each of the three AI agents reflects a separate part of her complex personality:
 - MELCHIOR • 1 - her as a scientist,
@@ -47,7 +48,7 @@ Each subsystem was fine-tuned using following prompts:
 1. Clone the repo:
 
 ```
-git clone https://github.com/TomaszRewak/MAGI.git
+git clone https://github.com/SnoopyDev901/MAGI.git
 ```
 
 2. Navigate to the cloned directory:
